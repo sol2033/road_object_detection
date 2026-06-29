@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Данные и результаты
+data/
+results/
+*.pth
+*.pt
+*.ckpt
+*.weights
+
+# Логи
+logs/
+*.log
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
