@@ -4,7 +4,6 @@ venv/
 
 # Данные и результаты
 data/
-results/
 *.pth
 *.pt
 *.ckpt
